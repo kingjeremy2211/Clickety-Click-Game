@@ -9,6 +9,6 @@
 * But wait... the cards will re-shuffle after each click.
 
 ## Deployment
-* Game can be played here [React Game](https://kingjeremy2211.github.io/Clickety-Click-Game/)
+* Game can be played here [React Game](https://kingjeremy2211.github.io/Clickety-Click-Game)
 
 ![screen shot](/clickety-click/public/assets/screenshot.png)
