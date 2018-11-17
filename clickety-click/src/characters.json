@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Andy",
+        "image": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/andy_bernard.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Darryl",
+        "image": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/darryl_philbin.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dwight",
+        "image": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/dwight_schrute.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Angela",
+        "image": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/angela_martin.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Erin",
+        "image": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/erin_hannon.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Stanley",
+        "image": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/stanley_hudson.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Jim",
+        "image": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/jim_halpert.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Kelly",
+        "image": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/kelly_kapoor.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Kevin",
+        "image": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/kevin_malone.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Meredith",
+        "image": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/meredith_palmer.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Michael",
+        "image": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/michael_scott.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Pam",
+        "image": "https://s3.us-east-2.amazonaws.com/school-umn-coding-bootcamp/Friendfinder/pam_beesly.jpg"
+    }
+]

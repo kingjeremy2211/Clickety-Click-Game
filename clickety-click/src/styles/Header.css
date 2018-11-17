@@ -1,0 +1,49 @@
+.header {
+    height: 220px;
+    text-align: center;
+    background-image: url("./images/office.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 20px;
+}
+
+.header h1 {
+    padding-top: 35px;
+    font-size: 72px;
+    font-weight: bold;
+    color: 	red;
+    text-shadow:
+    -1px -1px 0 rgb(217, 231, 16),
+    1px -1px 0 rgb(217, 231, 16),
+    -1px 1px 0 rgb(217, 231, 16),
+    1px 1px 0 rgb(217, 231, 16);
+}
+
+.header p {
+    font-size: 26px;
+    color: 	red;
+    text-shadow:
+    -1px -1px 0 rgb(217, 231, 16),
+    1px -1px 0 rgb(217, 231, 16),
+    -1px 1px 0 rgb(217, 231, 16),
+    1px 1px 0 rgb(217, 231, 16);
+}
+
+@media all and (max-width: 800px) { 
+    .header h1 {
+        padding-top: -40px;
+        font-size: 60px; 
+    }
+    .header p {
+        font-size: 24px;
+    }
+}
+
+@media all and (max-width: 650px) { 
+    .header h1 {
+        font-size: 48px;
+    }
+    .header p {
+        font-size: 20px;
+    }
+}
